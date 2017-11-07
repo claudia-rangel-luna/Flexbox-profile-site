@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    height: 100vh;
+    margin: auto;
+}
+
+img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 800px;
+    padding-right: 10px;
+}
+
+.btn {
+    background-color: #335C8E;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    height: 40px;
+    line-height: 38px;
+    position: relative;
+    margin: 0px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+i {
+    padding-right: 20px;
+}
+
+.btn:hover {
+    background-color: #99ADC6;
+}
+.content{
+	font-family: 'Montserrat', sans-serif;
+
+}
